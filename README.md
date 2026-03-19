@@ -35,6 +35,16 @@ A console-based Hangman game implemented in C, focusing on control flow, string 
   <img src="assets/lose-screen.png" style="width: 80%; height: auto;">
 </p>
 
+
+
+## Installation
+Clone Hangman:
+
+```bash
+git clone https://github.com/hammadqaiser/Hangman.git
+cd Hangman
+```
+
 ## How to Build
 ```bash
 gcc src/hangman.c -o hangman
@@ -53,13 +63,6 @@ gcc src/hangman.c -o hangman
 - Better UI / ASCII art
 - Cross-platform support
 
-## Installation
-Clone BrickBreakerGame:
-
-```bash
-git clone https://github.com/hammadqaiser/Hangman.git
-cd Hangman
-```
 
 ## Author
 ```bash
