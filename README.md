@@ -11,17 +11,29 @@ A console-based Hangman game implemented in C, focusing on control flow, string 
 ## Gameplay Preview
 
 ### Game Start
-![Game Start](assets/start-screen.png)
+
+<p align="center">
+  <img src="assets/start-screen.png" style="width: 80%; height: auto;">
+</p>
 
 ### Gameplay
-![Gameplay](assets/gameplay.png)
+
+<p align="center">
+  <img src="assets/gameplay.png" style="width: 80%; height: auto;">
+</p>
 
 ### Win Screen
-![Win](assets/win-screen.png)
+
+<p align="center">
+  <img src="assets/win-screen.png" style="width: 80%; height: auto;">
+</p>
+
 
 ### Lose Screen
-![Lose](assets/lose-screen.png)
 
+<p align="center">
+  <img src="assets/lose-screen.png" style="width: 80%; height: auto;">
+</p>
 
 ## How to Build
 ```bash
@@ -41,7 +53,17 @@ gcc src/hangman.c -o hangman
 - Better UI / ASCII art
 - Cross-platform support
 
+## Installation
+Clone BrickBreakerGame:
+
+```bash
+git clone https://github.com/hammadqaiser/Hangman.git
+cd Hangman
+```
+
 ## Author
+```bash
 Hammad Qaiser
+```
 
 If you like this project, feel free to explore the repository or suggest improvements.
